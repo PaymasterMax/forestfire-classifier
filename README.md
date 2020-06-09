@@ -1,0 +1,2 @@
+# forestfire-classifier
+Temperature predictions
