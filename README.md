@@ -1,2 +1,2 @@
 # forestfire-classifier
-Temperature predictions
+Temperature predictions from forest fire datasets
